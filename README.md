@@ -2,7 +2,7 @@
 
 😄 A bit about me:
 - 📊 I’m currently a Data Scientist at Microsoft (2020 - Present), working on Software Performance tools for C# and .NET applications.
-- 🎓 I recently finished my undergrad in Software Engineering at the University of Waterloo (2015 - 2020).
+- 🎓 I recently completed my undergrad in Software Engineering at the University of Waterloo (2015 - 2020).
 - 🎨 Outside of work, I enjoy [sketching](https://www.tumblr.com/blog/spandangarg), running and a few racket sports like Table Tennis and Badminton.
 - ⚡ Fun fact: I have my very own [IMDb page](https://www.imdb.com/name/nm11089147/) from my work on Luigi's Mansion as an intern at Next Level Games (Nintendo).
 
