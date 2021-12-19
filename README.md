@@ -6,7 +6,7 @@
 - 🎨 Outside of work, I enjoy [sketching](https://www.tumblr.com/blog/spandangarg), running and a few racket sports like Table Tennis and Badminton.
 - ⚡ Fun fact: I have my very own [IMDb page](https://www.imdb.com/name/nm11089147/) from my work on Luigi's Mansion as an intern at Next Level Games (Nintendo).
 
-Please visit my [website](https://glgarg.github.io/) to learn more about my past and current projects!
+<b>Please visit my [website](https://glgarg.github.io/) to learn more about my past and current projects!</b>
 
 <!--
 **glGarg/glGarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
